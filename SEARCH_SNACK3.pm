@@ -233,6 +233,7 @@ sub snackinventory {
 		"Tortilla",
 		"Tostones",
 		"Totopo",
+  		"TP",
 		"Trail mix, gorp, scroggin",
 		"Turkish delight",
 		"Waffle",
